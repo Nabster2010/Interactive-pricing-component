@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [github repo](https://github.com/Nabster2010/Interactive-pricing-component)
-- Live Site URL: [live site]()
+- Live Site URL: [live site](https://resilient-taffy-db8585.netlify.app/)
 
 ### Built with
 
